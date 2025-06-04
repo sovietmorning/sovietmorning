@@ -8,7 +8,9 @@
 
 #### Тестовая документация
 
+<span>
 <img src="assets/azuredevops.svg" width="30" /> <img src="assets/jira.svg" width="30"> <img src="assets/testit.svg" width="30"> <img src="assets/testrail.svg" width="30"><img src="assets/confluence.svg" width="30" />
+</span>
 
 <!--
 **sovietmorning/sovietmorning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
