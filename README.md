@@ -18,6 +18,10 @@
 
 <picture><img src="assets/microsoftsqlserver.svg" width="30" alt="MS SQL Server"  /></picture> <picture><img src="assets/mysql.svg" width="30" alt="MySQL"  /></picture> <picture><img src="assets/dbeaver.svg" width="30" alt="DBeaver"  /></picture>
 
+#### Кросс-браузерное и кросс-платформенное тестирование
+
+<picture><img src="assets/browserstack.svg" width="30" alt="BrowserStack"  /></picture> <picture><img src="assets/androidstudio.svg" width="30" alt="Android Studio"  /></picture>
+
 #### Автоматизация тестирования и работа с кодом
 
 <picture><img src="assets/selenium.svg" width="30" alt="Selenium"  /></picture> <picture><img src="assets/python.svg" width="30" alt="Python"  /></picture> <picture><img src="assets/pytest.svg" width="30" alt="PyTest"  /></picture> <picture><img src="assets/git.svg" width="30" alt="Git"  /></picture> <picture><img src="assets/github.svg" width="30" alt="GitHub"  /></picture> <picture><img src="assets/vscode.svg" width="30" alt="VS Code"  /></picture>
