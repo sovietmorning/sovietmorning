@@ -1,6 +1,6 @@
 ## Уголок тестировщика
 
-Привет! Меня зовут Анна, я тестировщик с более чем двухлетним опытом ручного тестирования веб-приложений. Это портфолио — результат моего обучения, практики и работы с различными инструментами и техниками тестирования. Также здесь вы найдёте моё резюме.
+Привет! Меня зовут Анна, я тестировщик с опытом ручного тестирования веб-приложений более двух лет. Это портфолио — результат моего обучения, практики и работы с различными инструментами и техниками тестирования. Также здесь вы найдёте моё резюме.
 
 ### :mag_right: Тестовые артефакты
 
@@ -8,7 +8,7 @@
 
 #### Тестовая документация
 
-<img src="https://github.com/sovietmorning/sovietmorning/blob/main/assets/azuredevops.svg" width="30" /> <img src="https://github.com/sovietmorning/sovietmorning/blob/main/assets/jira.svg" width="30"> <img src="https://github.com/sovietmorning/sovietmorning/blob/main/assets/testit.svg" width="30"> <img src="https://github.com/sovietmorning/sovietmorning/blob/main/assets/testrail.svg" width="30"><img src="https://github.com/sovietmorning/sovietmorning/blob/main/assets/confluence.svg" width="30" />
+<img src="assets/azuredevops.svg" width="30" /> <img src="assets/jira.svg" width="30"> <img src="assets/testit.svg" width="30"> <img src="assets/testrail.svg" width="30"><img src="assets/confluence.svg" width="30" />
 
 <!--
 **sovietmorning/sovietmorning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
