@@ -8,6 +8,8 @@
 
 #### Тестовая документация
 
+<img src="https://github.com/sovietmorning/sovietmorning/blob/main/assets/azuredevops.svg" width="30" /> <img src="https://github.com/sovietmorning/sovietmorning/blob/main/assets/jira.svg" width="30"> <img src="https://github.com/sovietmorning/sovietmorning/blob/main/assets/testit.svg" width="30"> <img src="https://github.com/sovietmorning/sovietmorning/blob/main/assets/testrail.svg" width="30"><img src="https://github.com/sovietmorning/sovietmorning/blob/main/assets/confluence.svg" width="30" />
+
 <!--
 **sovietmorning/sovietmorning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
