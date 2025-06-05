@@ -8,7 +8,7 @@
 - тест-кейсы
 - баг-репорты
 - коллекции Postman
-- mindmapsS
+- mindmaps
 
 ### :hammer_and_wrench: Инструменты
 
