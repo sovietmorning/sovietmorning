@@ -4,7 +4,7 @@
 
 ### :mag_right: Тестовые артефакты
 
-:heavy_check_mark: [Чек-листы](checklists) | :memo: [Тест-кейсы](test_cases) | :lady_beetle:[Баг-репорты](bug_reports) | :man_astronaut: [Коллекции Postman](postman_collections) | :receipt: [SQL-запросы](sql_queries)
+:heavy_check_mark: [Чек-листы](checklists) | :memo: [Тест-кейсы](test_cases) | :lady_beetle: [Баг-репорты](bug_reports) | :man_astronaut: [Коллекции Postman](postman_collections) | :receipt: [SQL-запросы](sql_queries)
 
 ### :hammer_and_wrench: Инструменты
 
