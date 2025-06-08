@@ -32,7 +32,7 @@
 
 <picture><img src="assets/selenium.svg" width="30" alt="Selenium"  /></picture> <picture><img src="assets/python.svg" width="30" alt="Python"  /></picture> <picture><img src="assets/pytest.svg" width="30" alt="PyTest"  /></picture> <picture><img src="assets/git.svg" width="30" alt="Git"  /></picture> <picture><img src="assets/bash.svg" width="30" alt="Bash"  /></picture> <picture><img src="assets/github.svg" width="30" alt="GitHub"  /></picture> <picture><img src="assets/vscode.svg" width="30" alt="VS Code"  /></picture>
 
----
+<hr style="height:0.5px; border:none; background-color:rgba(0,0,0,0.1); margin: 12px 0;" />
 
 ### :books: Сейчас изучаю
 
