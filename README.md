@@ -32,9 +32,9 @@
 
 <picture><img src="assets/selenium.svg" width="30" alt="Selenium"  /></picture> <picture><img src="assets/python.svg" width="30" alt="Python"  /></picture> <picture><img src="assets/pytest.svg" width="30" alt="PyTest"  /></picture> <picture><img src="assets/git.svg" width="30" alt="Git"  /></picture> <picture><img src="assets/bash.svg" width="30" alt="Bash"  /></picture> <picture><img src="assets/github.svg" width="30" alt="GitHub"  /></picture> <picture><img src="assets/vscode.svg" width="30" alt="VS Code"  /></picture>
 
-### :books: Сейчас изучаю
+---
 
-<hr style="height:1px; margin:-5px 0 10px 0; border:none; background-color:#e1e4e8;" />
+### :books: Сейчас изучаю
 
 - [ООП на Python 3](https://rutube.ru/plst/537372?r=wd)
 - [Docker](https://stepik.org/course/123300)
