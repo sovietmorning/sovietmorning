@@ -18,7 +18,7 @@
 
 #### Тестирование API
 
-<picture><img src="assets/postman.svg" width="30" alt="Postman"  /></picture> <picture><img src="assets/insomnia.svg" width="30" alt="Insomnia"  /></picture> <picture><img src="assets/soapui.svg" width="30" alt="Soap UI"  /></picture> <picture><img src="assets/swagger.svg" width="30" alt="Swagger"  /></picture>
+<picture><img src="assets/postman.svg" width="30" alt="Postman"  /></picture> <picture><img src="assets/insomnia.svg" width="30" alt="Insomnia"  /></picture> <picture><img src="assets/soapui.svg" width="30" alt="Soap UI"  /></picture> <picture><img src="assets/swagger.svg" width="30" alt="Swagger"  /></picture> <picture><img src="assets/devtools.svg" width="30" alt="DevTools"  /></picture> <picture><img src="assets/charles.png" width="30" alt="Charles"  /></picture> <picture><img src="assets/fiddler.png" width="30" alt="Fiddler"  /></picture>
 
 #### Работа с базами данных
 
@@ -32,7 +32,7 @@
 
 <picture><img src="assets/selenium.svg" width="30" alt="Selenium"  /></picture> <picture><img src="assets/python.svg" width="30" alt="Python"  /></picture> <picture><img src="assets/pytest.svg" width="30" alt="PyTest"  /></picture> <picture><img src="assets/git.svg" width="30" alt="Git"  /></picture> <picture><img src="assets/bash.svg" width="30" alt="Bash"  /></picture> <picture><img src="assets/github.svg" width="30" alt="GitHub"  /></picture> <picture><img src="assets/vscode.svg" width="30" alt="VS Code"  /></picture>
 
-<hr style="height:0.5px; border:none; background-color:rgba(0,0,0,0.1); margin: 12px 0;" />
+---
 
 ### :books: Сейчас изучаю
 
