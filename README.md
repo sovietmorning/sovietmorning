@@ -4,7 +4,7 @@
 
 ### :mag_right: Артефакты тестирования
 
-:heavy_check_mark: [Чек-листы](checklists) | :memo: [Тест-кейсы](test_cases) | :lady_beetle: [Баг-репорты](bug_reports) | :man_astronaut: [Коллекции Postman](postman_collections) | :receipt: [SQL-запросы](sql_queries)
+:heavy_check_mark: [Чек-листы](checklists) | :memo: [Тест-кейсы](test_cases) | :lady_beetle: [Баг-репорты](bug_reports) | :man_astronaut: [Коллекции Postman](postman_collections) | :receipt: [SQL-запросы](sql_queries) | :robot: [Автотесты](https://github.com/sovietmorning/stepik_selenium_project.git)
 
 ### :hammer_and_wrench: Инструменты
 
