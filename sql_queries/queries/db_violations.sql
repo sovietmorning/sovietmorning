@@ -16,7 +16,7 @@ CREATE TABLE fine (
 );
 
 /* Заполнить таблицу fine */
-INSERT INTO fine(name, number_plate, violation, sum_fine, date_violation, date_payment)
+INSERT INTO fine (name, number_plate, violation, sum_fine, date_violation, date_payment)
 VALUES  ("Баранов П.Е.", "Р523ВТ", "Превышение скорости(от 40 до 60)", 500.00, "2020-01-12", "2020-01-17"),
         ("Абрамова К.А.", "О111АВ", "Проезд на запрещающий сигнал", 1000.00, "2020-02-23", "2020-02-27"),
         ("Яковлев Г.Р.", "Т330ТТ", "Превышение скорости(от 20 до 40)", 500.00, "2020-01-23",  "2020-02-23"),
@@ -50,7 +50,7 @@ CREATE TABLE payment (
 );
 
 /* Заполнить таблицу payment */
-INSERT INTO payment(name, number_plate, violation, date_violation, date_payment)
+INSERT INTO payment (name, number_plate, violation, date_violation, date_payment)
 VALUES  ("Яковлев Г.Р.", "М701АА", "Превышение скорости(от 20 до 40)", "2020-01-12", "2020-01-22"),
         ("Баранов П.Е.", "Р523ВТ", "Превышение скорости(от 40 до 60)", "2020-02-14", "2020-03-06"),
         ("Яковлев Г.Р.", "Т330ТТ", "Проезд на запрещающий сигнал", "2020-03-03", "2020-03-23");

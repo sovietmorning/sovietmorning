@@ -11,7 +11,7 @@ CREATE TABLE author (
 );
 
 /* Заполнить таблицу author */
-INSERT INTO author(name_author)
+INSERT INTO author (name_author)
 VALUES  ("Булгаков М.А."),
         ("Достоевский Ф.М."),
         ("Есенин С.А."),
@@ -25,7 +25,7 @@ CREATE TABLE genre (
 );
 
 /* Заполнить таблицу genre */
-INSERT INTO genre(name_genre)
+INSERT INTO genre (name_genre)
 VALUES  ("Роман"),
         ("Поэзия"),
         ("Приключения");
@@ -65,7 +65,7 @@ CREATE TABLE city (
 );
 
 /* Заполнить таблицу city */
-INSERT INTO city(name_city, days_delivery)
+INSERT INTO city (name_city, days_delivery)
 VALUES ('Москва', 5),
        ('Санкт-Петербург', 3),
        ('Владивосток', 12);
@@ -80,14 +80,14 @@ CREATE TABLE client (
 );
 
 /* Заполнить таблицу client */
-INSERT INTO client(name_client, city_id, email)
+INSERT INTO client (name_client, city_id, email)
 VALUES ('Баранов Павел', 3, 'baranov@test'),
        ('Абрамова Катя', 1, 'abramova@test'),
        ('Семенонов Иван', 2, 'semenov@test'),
        ('Яковлева Галина', 1, 'yakovleva@test');
 
 /* Создать таблицу buy */
-CREATE TABLE buy(
+CREATE TABLE buy (
     buy_id INT PRIMARY KEY AUTO_INCREMENT,
     buy_description VARCHAR(100),
     client_id INT,
@@ -112,7 +112,7 @@ CREATE TABLE buy_book (
 );
 
 /* Заполнить таблицу buy_book */
-INSERT INTO buy_book(buy_id, book_id, amount)
+INSERT INTO buy_book (buy_id, book_id, amount)
 VALUES (1, 1, 1),
        (1, 7, 2),
        (1, 3, 1),
@@ -129,7 +129,7 @@ CREATE TABLE step (
 );
 
 /* Заполнить таблицу step */
-INSERT INTO step(name_step)
+INSERT INTO step (name_step)
 VALUES ('Оплата'),
        ('Упаковка'),
        ('Транспортировка'),
@@ -147,7 +147,7 @@ CREATE TABLE buy_step (
 );
 
 /* Заполнить таблицу buy_step */
-INSERT INTO buy_step(buy_id, step_id, date_step_beg, date_step_end)
+INSERT INTO buy_step (buy_id, step_id, date_step_beg, date_step_end)
 VALUES (1, 1, '2020-02-20', '2020-02-20'),
        (1, 2, '2020-02-20', '2020-02-21'),
        (1, 3, '2020-02-22', '2020-03-07'),
