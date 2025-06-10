@@ -16,7 +16,7 @@
 
 <picture><img src="assets/azuredevops.svg" width="30" alt="Azure DevOps"  /></picture> <picture><img src="assets/jira.svg" width="30" alt="Jira"  /></picture> <picture><img src="assets/youtrack.svg" width="30" alt="YouTrack"  /></picture> <picture><img src="assets/testit.svg" width="30" alt="Test IT"  /></picture> <picture><img src="assets/testrail.svg" width="30" alt="Testrail"  /></picture> <picture><img src="assets/confluence.svg" width="30" alt="Confluence"  /></picture> <picture><img src="assets/figma.svg" width="30" alt="Figma"  /></picture>
 
-#### Тестирование API
+#### Тестирование API и анализ трафика
 
 <picture><img src="assets/postman.svg" width="30" alt="Postman"  /></picture> <picture><img src="assets/insomnia.svg" width="30" alt="Insomnia"  /></picture> <picture><img src="assets/soapui.svg" width="30" alt="Soap UI"  /></picture> <picture><img src="assets/swagger.svg" width="30" alt="Swagger"  /></picture> <picture><img src="assets/devtools.svg" width="30" alt="DevTools"  /></picture> <picture><img src="assets/charles.png" width="30" alt="Charles"  /></picture> <picture><img src="assets/fiddler.png" width="30" alt="Fiddler"  /></picture>
 
