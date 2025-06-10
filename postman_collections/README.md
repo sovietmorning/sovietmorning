@@ -5,3 +5,9 @@
 - [посмотреть](https://www.postman.com/test-public-apis/portfolio/collection/hwl0dh1/stepik-rest-api-course) коллекцию в Postman
 - [загрузить](/postman_collections/stepik_rest_api_course/Stepik%20REST%20API%20Course.postman_collection.json) JSON-файл коллекции
 - [загрузить](/postman_collections/stepik_rest_api_course/Stepik%20REST%20API%20Course%20Env.postman_environment.json) JSON-файл окружения
+
+2. **Коллекция**, разработанная для тестирования публичного API [Restful-booker API](https://restful-booker.herokuapp.com/apidoc/index.html)
+
+- [посмотреть](https://www.postman.com/test-public-apis/portfolio/collection/w2jp028/restful-booker-api) коллекцию в Postman
+- [загрузить](/postman_collections/restful_booker_api/Restful-booker%20API.postman_collection.json) JSON-файл коллекции
+- [загрузить](/postman_collections/restful_booker_api/Restful-booker%20env.postman_environment.json) JSON-файл окружения
