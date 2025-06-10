@@ -47,7 +47,7 @@ ORDER BY  b.buy_id ASC;
 
 SELECT  bs.buy_id, 
         DATEDIFF(date_step_end, date_step_beg) AS Количество_дней, 
-    IF  (DATEDIFF(date_step_end, date_step_beg) > c.days_delivery, 
+        IF(DATEDIFF(date_step_end, date_step_beg) > c.days_delivery, 
         DATEDIFF(date_step_end, date_step_beg) - c.days_delivery, 0) AS Опоздание
   FROM  buy_step bs
   JOIN  buy b 
@@ -66,7 +66,7 @@ SELECT  bs.buy_id,
 
   SELECT name_genre, SUM(b_b.amount) AS Количество
     FROM genre g
-	  JOIN book b 
+    JOIN book b 
    USING (genre_id)
     JOIN buy_book b_b 
    USING (book_id)
