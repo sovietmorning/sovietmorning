@@ -8,6 +8,6 @@
 
 2. **Коллекция**, разработанная для тестирования публичного API [Restful-booker API](https://restful-booker.herokuapp.com/apidoc/index.html)
 
-- [посмотреть](https://www.postman.com/test-public-apis/portfolio/collection/w2jp028/restful-booker-api) коллекцию в Postman
+- [посмотреть](https://www.postman.com/test-public-apis/portfolio/collection/whaouku/restful-booker-api) коллекцию в Postman
 - [загрузить](/postman_collections/restful_booker_api/Restful-booker%20API.postman_collection.json) JSON-файл коллекции
 - [загрузить](/postman_collections/restful_booker_api/Restful-booker%20env.postman_environment.json) JSON-файл окружения
