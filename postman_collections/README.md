@@ -6,7 +6,7 @@
 - [загрузить](/postman_collections/stepik_rest_api_course/Stepik%20REST%20API%20Course.postman_collection.json) JSON-файл коллекции
 - [загрузить](/postman_collections/stepik_rest_api_course/Stepik%20REST%20API%20Course%20Env.postman_environment.json) JSON-файл окружения
 
-:orange_circle: **Коллекция**, разработанная для тестирования публичного API [Restful-booker API](https://restful-booker.herokuapp.com/apidoc/index.html)
+:orange_circle: **Коллекция**, разработанная для тестирования публичного API [Restful-booker API](https://restful-booker.herokuapp.com/apidoc/index.html). Включает готовые тест-кейсы с запросами REST и автоматизированные скрипты на JavaScript (Pre-requests и Post-response)
 
 - [посмотреть](https://www.postman.com/test-public-apis/portfolio/collection/whaouku/restful-booker-api) коллекцию в Postman
 - [загрузить](/postman_collections/restful_booker_api/Restful-booker%20API.postman_collection.json) JSON-файл коллекции
