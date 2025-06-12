@@ -31,8 +31,8 @@
 ## :page_facing_up: Сертификация
 
 - 2021 ISTQB Certified Tester Foundation Level
-  [сертификат](https://drive.google.com/file/d/1lklvkQnWbIJpxmTET9U9QLMWR6W_WFzd/view?usp=sharing)
-  [подтверждение на сайте ISTQB](http://scr.istqb.org/?name=Anna+Nadymova&number=84939&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=&resultsPerPage=10)
+  - [сертификат](https://drive.google.com/file/d/1lklvkQnWbIJpxmTET9U9QLMWR6W_WFzd/view?usp=sharing)
+  - [подтверждение на сайте ISTQB](http://scr.istqb.org/?name=Anna+Nadymova&number=84939&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=&resultsPerPage=10)
 
 ## :books: Сейчас изучаю
 
