@@ -28,6 +28,10 @@
 
 <picture><img src="assets/selenium.svg" width="30" alt="Selenium"  /></picture> <picture><img src="assets/python.svg" width="30" alt="Python"  /></picture> <picture><img src="assets/pytest.svg" width="30" alt="PyTest"  /></picture> <picture><img src="assets/git.svg" width="30" alt="Git"  /></picture> <picture><img src="assets/bash.svg" width="30" alt="Bash"  /></picture> <picture><img src="assets/github.svg" width="30" alt="GitHub"  /></picture> <picture><img src="assets/vscode.svg" width="30" alt="VS Code"  /></picture>
 
+## :books: Сертификация
+
+- 2021 – ISTQB Certified Tester Foundation Level, [сертификат](https://drive.google.com/file/d/1lklvkQnWbIJpxmTET9U9QLMWR6W_WFzd/view?usp=sharing), [подтверждение на сайте ISTQB](http://scr.istqb.org/?name=Anna+Nadymova&number=84939&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=&resultsPerPage=10)
+
 ## :books: Сейчас изучаю
 
 - [ООП на Python 3](https://rutube.ru/plst/537372?r=wd)
