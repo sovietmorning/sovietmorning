@@ -12,7 +12,7 @@
 - [_JR-04_](screenshots/QAP-5.png) _Обновление пользователя уже занятыми данными (nickname, email) происходит без ошибок при PATCH-запросе_
 - [_JR-05_](screenshots/QAP-6.png) _При POST-запросе для добавления игры в список желаемого возвращается 422 статус-код и сообщение "Whishlist limit is reached: 10"_
 
-:red_circle: **баг-репорты**, созданные в [YouTrack](https://www.jetbrains.com/ru-ru/youtrack/) при функциональном тестировании [учебной CRM-платформы](https://dev-crm.qa-playground.com/):
+:red_circle: **баг-репорты**, созданные в [YouTrack](https://www.jetbrains.com/ru-ru/youtrack/) при функциональном тестировании учебной площадки [Atomic CRM](https://dev-crm.qa-playground.com/) от [QA Playground](https://qa-playground.com/ru):
 
 - [_YT-01_](screenshots/YT-QAP-1.png) _Контакт не был добавлен в список контактов_
 - [_YT-02_](screenshots/YT-QAP-2.png) _После добавления заметки содержимое заметки пустое_
