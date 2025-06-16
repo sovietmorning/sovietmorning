@@ -2,7 +2,7 @@
 
 В данном разделе представлены тест-кейсы, составленные во время практики на тестовых площадках
 
-- некоторые тест-кейсы, разработанные в [TestRail](https://www.testrail.com/) для функционального тестирования раздела Recruitment демо-версии HR-системы [Orange HRM](https://opensource-demo.orangehrmlive.com/):
+- :large_blue_circle: некоторые тест-кейсы, разработанные в [TestRail](https://www.testrail.com/) для функционального тестирования раздела Recruitment демо-версии HR-системы [Orange HRM](https://opensource-demo.orangehrmlive.com/):
 
   - [_TR-01_](/test_cases/orange_hrm/TR-01.png) _Создать вакансию_
   - [_TR-02_](/test_cases/orange_hrm/TR-02.png) _Создать кандидата (все поля)_
@@ -15,7 +15,7 @@
   - [_TR-09_](/test_cases/orange_hrm/TR-09.png) _Отметить собеседование пройденным_
   - [_TR-10_](/test_cases/orange_hrm/TR-10.png) _Отметить собеседование не пройденным_
 
-- некоторые тест-кейсы, разработанные в [TestIT](https://testit.software/) для функционального тестирования раздела Contacts учебной площадки [Atomic CRM](https://release-crm.qa-playground.com/) от [QA Playground](https://qa-playground.com/ru):
+- :large_blue_circle: некоторые тест-кейсы, разработанные в [TestIT](https://testit.software/) для функционального тестирования раздела Contacts учебной площадки [Atomic CRM](https://release-crm.qa-playground.com/) от [QA Playground](https://qa-playground.com/ru):
 
   - [_TI-01_](/test_cases/qa_playground_crm/TI-01.png) _Добавить заметку для контакта_
   - [_TI-02_](/test_cases/qa_playground_crm/TI-02.png) _Отфильтровать список контактов по определенным фильтрам_
